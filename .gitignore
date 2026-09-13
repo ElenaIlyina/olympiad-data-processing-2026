@@ -1,0 +1,16 @@
+# Backups
+olympiads_2026_27_backup_*.html
+olympiads_2026_27 (Copy).html
+
+# Temporary / lock files
+.~lock.*#
+*.swp
+
+# Working files (drafts / private data)
+task13
+courses*.txt
+courses_recommendation.md
+result13.txt
+result14.xls
+170112.pdf
+Проект приказа 2026-27.docx
